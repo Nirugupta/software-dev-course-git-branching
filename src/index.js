@@ -6,4 +6,4 @@ for (let i = 0; i < 10; i++) {
 
 console.log("adding console statement to commit");
 
-console.log("updating same line on feature-branch3 to create a merge conflict");
+console.log("from main branch");
