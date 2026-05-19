@@ -6,4 +6,4 @@ for (let i = 0; i < 10; i++) {
 
 console.log("adding console statement to commit");
 
-console.log("New line adding from feature-branch1");
+console.log("New line adding from feature-branch2");
