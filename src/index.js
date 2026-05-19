@@ -6,4 +6,4 @@ for (let i = 0; i < 10; i++) {
 
 console.log("adding console statement to commit");
 
-console.log("feature branch 5 choice!");
+console.log("main branch choice!");
