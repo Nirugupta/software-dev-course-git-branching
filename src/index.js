@@ -6,4 +6,4 @@ for (let i = 0; i < 10; i++) {
 
 console.log("adding console statement to commit");
 
-console.log("main branch choice!");
+console.log("different change on main branch");
